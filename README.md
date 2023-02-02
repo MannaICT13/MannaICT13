@@ -17,4 +17,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MannaICT13&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MannaICT13&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MannaICT13&theme=react-dark&hide_border=true)](https://github.com/MannaICT13/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=MannaICT13&theme=react-dark&hide_border=true)](https://github.com/MannaICT13/github-readme-activity-graph)
